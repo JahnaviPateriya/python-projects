@@ -14,7 +14,6 @@ This repository contains the projects I build while learning Python—from begin
 A terminal-based billing application that:
 - Takes pizza orders
 - Calculates the bill
-- Generates a receipt
 
 
 ### 🎬 ScreenVerse
