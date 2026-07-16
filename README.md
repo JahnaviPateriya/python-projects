@@ -1,10 +1,27 @@
-# Python Projects 🐍
+# 🐍 Python Projects
 
-Hi, I'm Jahnavi.
+Hi! I'm **Jahnavi** 👋
 
-This repository contains the Python projects I build as I learn programming.
+Welcome to my Python learning journey.
 
-### Current Projects
-- 🍕 Pizza Billing System
+This repository contains the projects I build while learning Python—from beginner programs to larger terminal applications.
 
-More coming soon! 🚀
+---
+
+## 📂 Projects
+
+### 🍕 Pizza Billing System
+A terminal-based billing application that:
+- Takes pizza orders
+- Calculates the bill
+- Generates a receipt
+
+
+### 🎬 ScreenVerse
+A terminal entertainment booking system featuring:
+- 🎥 Movie booking
+- 📺 Web series selection
+- 🎟 Ticket generation
+- Decorative terminal interface
+
+---
