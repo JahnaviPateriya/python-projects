@@ -5,6 +5,7 @@ Hi! I'm **Jahnavi** 👋
 Welcome to my Python learning journey!
 
 ● This repository contains the projects I build while learning Python—from beginner programs to larger terminal applications.
+
 ● I'm currently learning Python and will keep adding new projects as I improve.
 
 ---
